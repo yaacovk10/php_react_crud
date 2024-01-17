@@ -1,0 +1,13 @@
+{
+    "name": "John Doe",
+    "age": 25,
+    "city": "Exampleville",
+    "isStudent": false,
+    "grades": {
+      "math": 90,
+      "english": 85,
+      "history": 75
+    },
+    "hobbies": ["reading", "playing guitar", "coding"]
+  }
+  
